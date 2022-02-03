@@ -1,0 +1,5 @@
+view/
+target/
+out/
+.idea/
+*.iml

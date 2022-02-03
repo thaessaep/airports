@@ -1,0 +1,8 @@
+1) Download the latest version of jdk from the link: https://www.oracle.com/ru/java/technologies/javase-downloads.html
+2) Open console: Win+R
+3) Go to the desired directory
+4) Copy repository path: https://github.com/thaessaep/airports.git
+5) Write to the console "git init"
+6) Write to the console git pull and paste the copied path
+7) In the console, go to the folder where the files were downloaded (write to the console "cd the path to the file")
+8) Write to the console "java -jar Airports-1.0-SNAPSHOT.jar"
